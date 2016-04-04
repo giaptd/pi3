@@ -1,2 +1,2 @@
 # pi3
-code for raspberry
+This project contains training code for Raspberry Pi
